@@ -48,6 +48,11 @@ A minimalist, high-efficiency desktop utility designed to manage cross-point mac
 | :---: | :---: |
 | ![Preset Editor](images/preset_editor.png) | ![Label Editor](images/label_editor.png) |
 
+### Network Configuration
+| Network Configuration
+| :---: |
+| ![Network Configuration](images/network_configuration.png) |
+
 ---
 
 ## Prerequisites

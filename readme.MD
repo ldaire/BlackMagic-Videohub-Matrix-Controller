@@ -38,7 +38,7 @@ The application is built on native Python frameworks to ensure minimal deploymen
 
 1. **Clone the Repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/BlackMagic-Videohub-Matrix-Controller.git](https://github.com/YOUR_USERNAME/BlackMagic-Videohub-Matrix-Controller.git)
+git clone [https://github.com/ldaire/BlackMagic-Videohub-Matrix-Controller.git](https://github.com/ldaire/BlackMagic-Videohub-Matrix-Controller.git)
 cd BlackMagic-Videohub-Matrix-Controller
 ```
 

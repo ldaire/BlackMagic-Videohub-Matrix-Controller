@@ -7,7 +7,7 @@ A minimalist, high-efficiency desktop utility designed to manage cross-point mac
 ## Key Interfaces
 
 ### Main Dashboard
-![Main Interface](images/main_window.png)
+<img src="images/main_window.png" alt="Main Interface">
 
 ### Matrix Preset Creator & Port Label Editor
 | Preset Configuration | Label Synchronization |
